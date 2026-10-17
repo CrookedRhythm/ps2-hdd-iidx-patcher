@@ -1,0 +1,18 @@
+# Backups, game data and disk images must never be committed
+*.ps2bak
+*.iso
+*.ISO
+*.zso
+*.img
+*.bin
+*.elf
+SLPM_*
+SLUS_*
+SLES_*
+SCUS_*
+SCES_*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
