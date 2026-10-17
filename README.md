@@ -1,7 +1,7 @@
 # DISCLAIMER
 
 This tool was made with the help of AI. Use it at your own risk. 
-I have tested and verified it works.  However, I am not responsible for any damae or dataloss this tool caused by using this tool.
+I have tested and verified it works.  However, I am not responsible for any damae or dataloss caused by using this tool.
 
 # PS2 HDD Game Patcher
 
